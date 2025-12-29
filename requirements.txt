@@ -1,0 +1,20 @@
+# Core Framework
+streamlit
+
+# Computer Vision & Image Processing
+opencv-python
+opencv-python-headless
+pillow
+numpy
+
+# OCR & Text Recognition
+easyocr
+
+# Text-to-Speech
+gtts
+
+# Additional Dependencies (auto-installed with above)
+torch
+torchvision
+scipy
+scikit-image
