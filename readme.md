@@ -256,28 +256,6 @@ http://localhost:8501
 
 ---
 
-## 🔮 Future Scope
-
-### Phase 1: Production Readiness (6-8 months)
-- [ ] **Trained Currency Model** – YOLO-based detector with 90%+ accuracy
-- [ ] **Offline Functionality** – On-device models and TTS
-- [ ] **Mobile App** – Android/iOS native applications
-- [ ] **Improved Object Detection** – YOLO integration for semantic detection
-
-### Phase 2: Enhanced Features (8-12 months)
-- [ ] **More Languages** – Tamil, Bengali, Marathi, Telugu support
-- [ ] **GPS Navigation** – Outdoor route guidance
-- [ ] **Depth Sensing** – Better distance estimation
-- [ ] **Voice Commands** – Hands-free operation
-
-### Phase 3: Ecosystem Integration (12+ months)
-- [ ] **Wearable Devices** – Smart glasses integration
-- [ ] **API for Developers** – Third-party integrations
-- [ ] **Cloud Sync** – User preferences and settings
-- [ ] **Community Features** – Crowdsourced obstacle reporting
-
----
-
 ## 🏗️ Production Roadmap
 
 To transition from prototype to production, we've identified key areas for enhancement:
@@ -340,20 +318,14 @@ You are free to:
 
 Built with the goal of making AI **inclusive, ethical, and accessible**, especially for communities that need it most.
 
-### Special Thanks
-- **EasyOCR Team** – Multilingual OCR capabilities
-- **Streamlit** – Rapid prototyping framework
-- **Indian Accessibility Community** – Feedback and insights
-- **Open Source Contributors** – Tools and libraries
-
 ---
 
 ## 📞 Contact & Support
 
-- 📧 **Email:** support@voicevision.ai
-- 🐛 **Issues:** [GitHub Issues](https://github.com/yourusername/voicevision/issues)
-- 💬 **Discussions:** [GitHub Discussions](https://github.com/yourusername/voicevision/discussions)
-- 📖 **Documentation:** [Wiki](https://github.com/yourusername/voicevision/wiki)
+- 📧 **Email:** meenal.sinha09@gmail.com
+- 🐛 **Issues:** [GitHub Issues](https://github.com/MeenalSinha/voicevision/issues)
+- 💬 **Discussions:** [GitHub Discussions](https://github.com/MeenalSinha/voicevision/discussions)
+- 📖 **Documentation:** [Wiki](https://github.com/MeenalSinha/voicevision/wiki)
 
 ---
 
